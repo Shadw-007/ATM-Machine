@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QilWHhTbDeB98G5ryNMOs48CDdIId1ue4Mwb770FR1qH/n25B2VcSYTayRQw3pnLb2IZy+BU8Do/JijHIoFJRw==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/ATM-Machine/ATM-Machine/ATM-Machine/ATM-Machine.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
